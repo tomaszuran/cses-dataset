@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/tomas/Desktop/CSES/cses-dataset/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\cses_dataset.dir\\src\\task1.cpp.obj -c C:\\Users\\tomas\\Desktop\\CSES\\cses-dataset\\src\\task1.cpp",
+  "file": "C:/Users/tomas/Desktop/CSES/cses-dataset/src/task1.cpp"
+}
+]
