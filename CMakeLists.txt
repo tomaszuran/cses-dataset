@@ -3,4 +3,4 @@ project(cses_dataset)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(cses_dataset src/task3.cpp)
+add_executable(cses_dataset src/task4.cpp)

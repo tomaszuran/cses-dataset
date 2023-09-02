@@ -297,7 +297,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\tomas\Desktop\CSES\cses-dataset\src\task3.cpp" />
+    <ClCompile Include="C:\Users\tomas\Desktop\CSES\cses-dataset\src\task4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\tomas\Desktop\CSES\cses-dataset\build\ZERO_CHECK.vcxproj">
